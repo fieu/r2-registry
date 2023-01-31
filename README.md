@@ -26,6 +26,12 @@ Example URL: `docker pull pub-6975b173047b49bf97e9146ff7808721.r2.dev/myapp:v1.0
 
 Example URL with custom domain: `docker pull images.sheldon.is/myapp:v1.0.0`
 
+# 💻 Demo
+
+<p align="center">
+    <img src="https://i.imgur.com/UoTlgOg.gif" width="800" height="400" alt="Demo GIF">
+</p>
+
 # 📕 Requirements
 
 - [skopeo](https://github.com/containers/skopeo/blob/main/install.md) - Toolkit for container images
@@ -73,7 +79,7 @@ export R2_DOMAIN=images.sheldon.is
 
 ## 🧬 Output
 
-![Example GIF](https://i.imgur.com/UoTlgOg.gif)
+<img src="https://i.imgur.com/UoTlgOg.gif" width="800" height="400" alt="Demo GIF">
 
 ## 🎉 Try it out
 
