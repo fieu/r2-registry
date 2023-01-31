@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/FKEZkXk.png">
-    <img alt="Text changing depending on mode.'" src="https://i.imgur.com/OTDvrDp.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/FKEZkXk.png" width="720" height"480">
+    <img alt="Text changing depending on mode.'" src="https://i.imgur.com/OTDvrDp.png" width="720" height"480">
     </picture>
   <br>
   <br>
