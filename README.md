@@ -23,6 +23,7 @@
 This is a very simple Bash shell script that converts local Docker container images into the registry distribution format and structure. The tool then uploads that structure via `rclone` to your R2 bucket of choice. The end result is having a Docker registry compatible URL on R2.
 
 Example URL: `docker pull pub-6975b173047b49bf97e9146ff7808721.r2.dev/myapp:v1.0.0`
+
 Example URL with custom domain: `docker pull images.sheldon.is/myapp:v1.0.0`
 
 # 📕 Requirements
@@ -74,7 +75,7 @@ export R2_DOMAIN=images.sheldon.is
 
 ![Example GIF](https://i.imgur.com/UoTlgOg.gif)
 
-## 🍿 Try it out
+## 🎉 Try it out
 
 Try and pull my image from my R2 bucket:
 
